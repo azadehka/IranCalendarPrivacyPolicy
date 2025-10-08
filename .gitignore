@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/IranCalendarPrivacyPolicy/config/applicationhost.config
+/.vs/IranCalendarPrivacyPolicy/FileContentIndex/aa59f20c-b716-44fc-ba9f-42a98b45d4eb.vsidx
+/.vs/IranCalendarPrivacyPolicy/v17/.wsuo
+/.vs/IranCalendarPrivacyPolicy/v17/DocumentLayout.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/IranCalendarPrivacyPolicy/FileContentIndex/3f89c45c-c2ce-4c98-a76a-acec674c07e5.vsidx
+/.vs/IranCalendarPrivacyPolicy/FileContentIndex/fe837641-ac0d-41b2-b267-df7a92612055.vsidx
+*.vsidx
